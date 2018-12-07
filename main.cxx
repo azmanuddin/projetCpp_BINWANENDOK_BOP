@@ -10,5 +10,6 @@
 
 int main()
 {
-  std::cout << "Hello World!";
+  std::cout << "Je t'aime";
+  return 0;
 }
