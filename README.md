@@ -1,4 +1,4 @@
-# Réseux Routier/Network Path Finder
+# Réseaux Routier / Network Path Finder 
 Le but de ce project est d’mplémenter l'algorithme de Dijkstra en C ++ pour trouver les chemins les plus courts en utilisant les codes Open Source. 
 Enseignant : Valérie Roy – CMA Mines de ParisTech, valerie.roy@mines-paristech.fr 
 
